@@ -2,11 +2,11 @@
 
 ## Installation Steps
 
-1. *Enable custom CSS support* — go to about:config, search for toolkit.legacyUserProfileCustomizations.stylesheets, and toggle it to true.
-2. *Find the profile folder* — go to about:support, find the Application Basics section, and click *Open Profile Folder* (or *Open Directory*).
-3. *Create the chrome folder* — inside the profile folder, create a subfolder named exactly chrome if it doesn't already exist.
-4. *Add the CSS file* — place your mod's CSS file inside the chrome folder, named userChrome.css. If one already exists, paste the mod's CSS contents into it.
-5. *Restart Zen Browser* — the styles will be applied after a full restart.
+1. **Enable custom CSS support**: go to `about:config` and search for `toolkit.legacyUserProfileCustomizations.stylesheets`. Toggle it to `true`.
+2. **Find the profile directory**: go to `about:support` and find the *Application Basics* section. Click *Open Profile Folder* (or *Open Directory*).
+3. **Create the chrome directory**: inside the profile directory, create a sub-directory named exactly `chrome` if it doesn't already exist.
+4. **Add the CSS file**: place the mod's [CSS file](/better-inactive-tabs/better-inactive-tabs.css) inside the chrome directory and rename it to `userChrome.css`. (If one already exists, paste the mod's CSS contents into it).
+5. **Restart Zen Browser**: the styles will be applied after a full browser restart.
 
 ## Screenshots
 
